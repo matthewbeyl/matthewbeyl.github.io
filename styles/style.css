@@ -76,6 +76,30 @@ header a:hover{
     font-size: 20px;
 }
 
+body i:hover{
+    color: #c47200;
+}
+
+.skills i{
+    padding: 20px;
+}
+
+.scrollable{
+    display: flex;
+    background-color: #c47200;
+    min-width: 100%;
+    min-height: 400px;
+    overflow-x: auto;
+    opacity: .7;
+    margin-top: 30px;
+}
+
+.card{
+    background-color:#000000;
+    min-width: 400px;
+    margin: 10px;
+
+}
 footer {
     background: #333333;
     color: #ffffff;
@@ -85,7 +109,13 @@ footer {
 }
 
 footer a{
+    color: #ffffff;
+    text-decoration: none;
     padding: 0 10px 0 10px;
+}
+
+footer a:hover {
+    color: #c47200;
 }
 
 #about{
@@ -94,3 +124,4 @@ footer a{
     text-align: center;
     color: #ffffff;
 }
+
