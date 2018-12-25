@@ -60,7 +60,7 @@ header a:hover{
 }
 
 #welcome{
-    min-height: 750px;
+    min-height: 720px;
     background: url('../img/welcome.JPG') no-repeat 0 -200px;
     text-align: center;
     color: #ffffff;
@@ -82,4 +82,15 @@ footer {
     border-top: #c47200 2px solid;
     text-align: center;
     padding: 20px;
+}
+
+footer a{
+    padding: 0 10px 0 10px;
+}
+
+#about{
+    min-height: 720px;
+    background: url('../img/about.JPG') no-repeat 0 -200px;
+    text-align: center;
+    color: #ffffff;
 }
