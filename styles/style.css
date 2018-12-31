@@ -107,7 +107,15 @@ body i:hover{
     background-color:#000000;
     min-width: 400px;
     margin: 10px;
+}
 
+.download{
+    margin-top: 20px;
+}
+
+.download a{
+    color: #c47200;
+    /* text-decoration: none; */
 }
 footer {
     background: #333333;
