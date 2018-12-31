@@ -60,6 +60,13 @@ header a:hover{
     font-weight: bold;
 }
 
+.bio{
+    padding-top: 100px;
+    margin-left: 10%;
+    margin-right: 25%;
+    text-align: left;
+}
+
 #welcome{
     min-height: 720px;
     background: url('../img/welcome.JPG') no-repeat 0 -200px;
@@ -95,26 +102,27 @@ body i:hover{
 
 .scrollable{
     display: flex;
-    background-color: #c47200;
+    /* background-color: #333333; */
     min-width: 100%;
     min-height: 400px;
     overflow-x: auto;
-    opacity: .7;
+    /* opacity: .75; */
     margin-top: 30px;
 }
 
 .card{
-    background-color:#000000;
     min-width: 400px;
     margin: 10px;
 }
 
 .download{
     margin-top: 20px;
+    padding-bottom: 10px;
 }
 
 .download a{
-    color: #c47200;
+    color: #ffffff;
+    letter-spacing: 2px;
     /* text-decoration: none; */
 }
 footer {
