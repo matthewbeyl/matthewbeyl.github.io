@@ -107,6 +107,13 @@ body i:hover{
     min-width: 400px;
     margin: 10px;
 }
+.card h5{
+    margin-top: -15px;
+}
+
+.card p{
+    font-size: 12px;
+}
 
 .download{
     margin-top: 20px;
