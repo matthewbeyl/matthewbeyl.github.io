@@ -166,6 +166,8 @@ footer a:hover {
 
 @media screen and (max-width: 600px) {
     .bio{
+        margin-top: 50px;
+        padding: 10px;
         margin-left: 5%;
         margin-right: 5%;
         max-width: 90%;
